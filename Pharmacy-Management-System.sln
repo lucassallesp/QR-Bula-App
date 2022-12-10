@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32802.440
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pharmacy-Management-System", "Pharmacy-Management-System\Pharmacy-Management-System.csproj", "{ECAF9CAE-0659-4A4C-B6A5-9EE6C394953F}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "QRBula-Setup", "QRBula-Setup\QRBula-Setup.vdproj", "{72D6E37B-4BB3-453A-9365-5F8EA4AF93CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ECAF9CAE-0659-4A4C-B6A5-9EE6C394953F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECAF9CAE-0659-4A4C-B6A5-9EE6C394953F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECAF9CAE-0659-4A4C-B6A5-9EE6C394953F}.Debug|x86.ActiveCfg = Debug|x86
+		{ECAF9CAE-0659-4A4C-B6A5-9EE6C394953F}.Debug|x86.Build.0 = Debug|x86
+		{ECAF9CAE-0659-4A4C-B6A5-9EE6C394953F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECAF9CAE-0659-4A4C-B6A5-9EE6C394953F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ECAF9CAE-0659-4A4C-B6A5-9EE6C394953F}.Release|x86.ActiveCfg = Release|x86
+		{ECAF9CAE-0659-4A4C-B6A5-9EE6C394953F}.Release|x86.Build.0 = Release|x86
+		{72D6E37B-4BB3-453A-9365-5F8EA4AF93CC}.Debug|Any CPU.ActiveCfg = Debug
+		{72D6E37B-4BB3-453A-9365-5F8EA4AF93CC}.Debug|x86.ActiveCfg = Debug
+		{72D6E37B-4BB3-453A-9365-5F8EA4AF93CC}.Release|Any CPU.ActiveCfg = Release
+		{72D6E37B-4BB3-453A-9365-5F8EA4AF93CC}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7661610B-699E-470A-927E-0441EDD2416C}
+	EndGlobalSection
+EndGlobal
